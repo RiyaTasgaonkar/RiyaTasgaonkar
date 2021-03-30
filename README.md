@@ -21,7 +21,6 @@
 [![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
 
 <br>
-<br>
 
 <!-- [![Riya's GitHub stats](https://github-readme-stats.vercel.app/api?username=RiyaTasgaonkar&hide=prs&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/RiyaTasgaonkar/github-readme-stats)-->
 
