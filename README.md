@@ -1,9 +1,7 @@
 <h2>Hi, I'm Riya.✨</h2>
-<br>
 
 #### I am a CS undergrad student with passion for Problem Solving and enthusiastic about Data Science.
 
-<br>
 
 
 ### 💻 Technologies and Frameworks 
@@ -13,9 +11,9 @@
 [![](https://img.shields.io/badge/TensorFlow-FF6f00?style=for-the-badge&logo=Tensorflow&logoColor=white)]()
 [![](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)]()
 [![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 [![](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white)]()
 [![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
-[![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 [![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)]()
 [![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)]()
 [![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
@@ -25,7 +23,7 @@
 <br>
 <br>
 
-[![Riya's GitHub stats](https://github-readme-stats.vercel.app/api?username=RiyaTasgaonkar&hide=prs&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/RiyaTasgaonkar/github-readme-stats)
+<!-- [![Riya's GitHub stats](https://github-readme-stats.vercel.app/api?username=RiyaTasgaonkar&hide=prs&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/RiyaTasgaonkar/github-readme-stats)-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RiyaTasgaonkar&layout=compact&count_private=true&theme=midnight-purple&hide=css)](https://github.com/RiyaTasgaonkar/github-readme-stats)
 
