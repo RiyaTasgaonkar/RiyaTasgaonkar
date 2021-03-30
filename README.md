@@ -1,10 +1,10 @@
 <h2>Hi, I'm Riya.✨</h2>
 <br>
 
-<h3>I am a CS undergrad student with passion for Problem Solving and enthusiastic about Data Science.</h3>
+#### I am a CS undergrad student with passion for Problem Solving and enthusiastic about Data Science.
 
 <br>
-<br>
+
 
 ### 💻 Technologies and Frameworks 
 <br>
@@ -29,7 +29,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RiyaTasgaonkar&layout=compact&count_private=true&theme=midnight-purple&hide=css)](https://github.com/RiyaTasgaonkar/github-readme-stats)
 
-<br>
 <br>
 
 ### 📫 Get in touch with me 
