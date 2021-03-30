@@ -25,7 +25,6 @@
 <!-- [![Riya's GitHub stats](https://github-readme-stats.vercel.app/api?username=RiyaTasgaonkar&hide=prs&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/RiyaTasgaonkar/github-readme-stats)-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RiyaTasgaonkar&layout=compact&count_private=true&theme=midnight-purple&hide=css)](https://github.com/RiyaTasgaonkar/github-readme-stats)
-
 <br>
 
 ### 📫 Get in touch with me 
